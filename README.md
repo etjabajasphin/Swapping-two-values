@@ -31,7 +31,4 @@ print(" The swapped values are:",n1,n2)
 ![output1](./swappingout.jpg)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
-
-
-
+Thus the swapping of two values are successfully executed using python.
