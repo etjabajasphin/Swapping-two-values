@@ -19,7 +19,16 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-
+```python
+n1 = int(input())
+n2 = int(input())
+temp = n1
+n1 = n2
+n2 = temp
+print(" The swapped values are:",n1,n2)
+```
+## Output:
+![output1](./swappingout.jpg)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
